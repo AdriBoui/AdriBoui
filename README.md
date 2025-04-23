@@ -6,7 +6,7 @@
 
 ---
 
-### 🧑‍💼 About Me
+### 🙋‍♂️ About Me
 
 - 🎓 Graduated from **Le Wagon Data Analytics Bootcamp**
 - 💼 Past experience at **Teleperformance** & **Revolut**
