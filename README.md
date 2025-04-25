@@ -48,10 +48,10 @@
 
 ### 💼 My Experience
 
-- 🔹 **Account Executive** @ *Revolut*
-- 🔹 **Business Developer** @ *Reportlinker*
-- 🔹 **Sales Representative** @ *Teleperformance*
-- 🔹 Worked on real-world projects at Le Wagon including ETL pipelines, dashboards, and forecasting models
+- **Account Executive** @ *Revolut*
+- **Business Developer** @ *Reportlinker*
+- **Sales Representative** @ *Teleperformance*
+- Worked on real-world projects at Le Wagon including ETL pipelines, dashboards, and forecasting models
 
 ---
 
