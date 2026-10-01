@@ -6,17 +6,17 @@
 
 ---
 
-### 🙋‍♂️ About Me
+### About Me
 
-- 🎓 Graduated from **Le Wagon Data Analytics Bootcamp**
-- 💼 Past experience at **Teleperformance** & **Revolut**
-- 🛠️ I work with a wide range of tools including data analysis, cloud platforms, automation, and business intelligence.
-- 📈 Passionate about **making data talk** and **supporting sales, marketing, and ops teams**
-- 🧠 Love solving real-world business problems with a **data-driven mindset**
+- Graduated from **Le Wagon Data Analytics Bootcamp**
+- Past experience at **Teleperformance** & **Revolut**
+- I work with a wide range of tools including data analysis, cloud platforms, automation, and business intelligence.
+- Passionate about **making data talk** and **supporting sales, marketing, and ops teams**
+- Love solving real-world business problems with a **data-driven mindset**
 
 ---
 
-### 🧰 Toolbox
+### Toolbox
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="Python" width="40" height="40" style="margin-right: 10px;"/>
@@ -46,7 +46,7 @@
 
 ---
 
-### 💼 My Experience
+### My Experience
 
 - **Account Executive** @ *Revolut*
 - **Business Developer** @ *Reportlinker*
@@ -55,7 +55,7 @@
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adrien-bouis/">
